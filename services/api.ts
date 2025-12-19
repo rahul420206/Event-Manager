@@ -3,7 +3,7 @@
  * This file handles all the 'fetch' calls to our Node.js backend.
  */
 
-const BASE_URL = 'http://localhost:5000/api';
+const BASE_URL = import.meta.env.VITE_API_URL;
 
 // Helper function to get the token from local storage
 const getAuthHeader = () => {
