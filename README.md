@@ -36,13 +36,16 @@ When the site is opened for the first time, it may take 1–2 minutes to respond
 If needed, please check the Network tab in the browser’s developer console to confirm that the API response is being received.
 
 Backend: Deployed on Render
+
 Frontend: Deployed on Vercel
+
 Database: MongoDB Atlas
 
 Login / Signup
 You can either create a new account by signing up or log in using the following test credentials:
 
 Username: rahul@email.com
+
 Password: 1234
 
 
